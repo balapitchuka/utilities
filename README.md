@@ -1,2 +1,2 @@
 # utilities
-utility scripts for windows , linux
+1. [Battery notifier for windows](#/windows/battery_notifier)
